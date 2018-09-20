@@ -19,7 +19,7 @@ defmodule Practice do
   def factor(x) do
     # Maybe delegate this too.
     Practice.Factor.factor(x)
-    # [1,2,x]
+   
   end
 
     
